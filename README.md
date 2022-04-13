@@ -9,3 +9,9 @@ The goal is earn money, the reward is the money that the agent has earned (negat
 
 Thanks for the book that I can study and understand about Reinforcement Learning.  
 * Maxim Lapan. *Deep Reiforcement Learning Hands-On*
+
+
+## Future work
+* Make a league where the best agents go to the next competition.
+* Make a recurrent neural network (use LSTM).
+
