@@ -11,7 +11,13 @@ Thanks for the book that I can study and understand about Reinforcement Learning
 * Maxim Lapan. *Deep Reiforcement Learning Hands-On*
 
 
-## Future work
+### Multimedia
+
+[![Watch the video](https://img.youtube.com/vi/-rv1zS5pkJA/hqdefault.jpg)](https://www.youtube.com/watch?v=-rv1zS5pkJA)
+
+Music: https://www.bensound.com
+
+### Future work
 * Make a league where the best agents go to the next competition.
 * Make a recurrent neural network (use LSTM).
 
